@@ -21,6 +21,7 @@ source: [https://www.vecteezy.com/free-vector/holiday](https://www.vecteezy.com/
   - Make open source packages (PHP & NodeJS)
 - Become a middle experience in databases (SQL & NoSQL)
   - PostgreSQL, MySQL, MariaDB, MongoDB & SQLite
+- Become a Wordpress Developer
 - Become a junior/middle UI/UX Designer
   - Have portfolios in Dribbble
   - Have another portfolios in Instagram
