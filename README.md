@@ -7,10 +7,11 @@ source: [https://www.vecteezy.com/free-vector/holiday](https://www.vecteezy.com/
 - Learn about algorithms & data structures
 - Learn English languange (speak, reading, listening, writing) and also grammar
 - Learn to use tools to support productivity & project management
+- Learn basic Front-End framework to know how Front-End works, in 2022 I will choose Angular
 - Become a middle Back-End Developer [https://roadmap.sh/backend](https://roadmap.sh/backend)
   - PHP
     - Laravel, Codeigneter, Symfoni, Yii & Zend
-  - NodeJS
+  - NodeJS, Typescript
     - ExpressJS, Hapi, Meteor & NestJS
     - And in 2022, I will make NodeJS as my primary programming languange
   - C
