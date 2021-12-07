@@ -4,6 +4,7 @@ source: [https://www.vecteezy.com/free-vector/holiday](https://www.vecteezy.com/
 # Resolution in 2022
 
 - Learn about time management, growth mindset & social relations
+- Learn about algorithms & data structures
 - Learn English languange (speak, reading, listening, writing) and also grammar
 - Learn to use tools to support productivity & project management
 - Become a middle Back-End Developer [https://roadmap.sh/backend](https://roadmap.sh/backend)
@@ -25,6 +26,7 @@ source: [https://www.vecteezy.com/free-vector/holiday](https://www.vecteezy.com/
 - Become a junior/middle UI/UX Designer
   - Have portfolios in Dribbble
   - Have another portfolios in Instagram
+- Ricing Linux
 - Upgrading my work equipment, to support productivity
 - Gather & join with programming organization
 - Start my blog [Maturnuwun.id](https://maturnuwun.id). My wish at the end 2022, [Maturnuwun.id](https://maturnuwun.id) is already useful to other people & me
