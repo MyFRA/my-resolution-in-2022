@@ -32,6 +32,7 @@ source: [https://www.vecteezy.com/free-vector/holiday](https://www.vecteezy.com/
 - Gather & join with programming organization
 - Start my blog [Maturnuwun.id](https://maturnuwun.id). My wish at the end 2022, [Maturnuwun.id](https://maturnuwun.id) is already useful to other people & me
 - Keep Learning
+- **No PMO in 2022** 
 
 # Conclusion
 
